@@ -14,7 +14,6 @@ public class Main {
         cart.addProduct(product1);
         cart.addProduct(product2);
 
-        // Display the cart summary
         cart.displayCart();
 
         // Checkout
